@@ -1,4 +1,2 @@
- // for(int i : a) {
-        //     System.out.println("value : "+i);
-        //     System.out.println(a.length);
-        // }
+Scanner sc =  new Scanner(System.in);
+        int num = sc.nextInt();
